@@ -8,6 +8,7 @@ function Contact() {
             <br></br>
             <br></br>
             <br></br>
+            <br></br>
             <Row lg="2" className='d-flex justify-content-center'>
             <div>
                 <h2>Have some feedback? Pass it along!</h2>

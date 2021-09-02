@@ -13,11 +13,13 @@ function About() {
             <div className="text-center">
                 <Image src={Pic} thumbnail/>
             </div>
-            
+            <br></br>
+            <br></br>
+            <br></br>
             <Row className="justify-content-md-center">
-                <Col md="auto">
+                <Col xl="8" md="auto">
                     <h2>About Me</h2>
-                    <div className="">
+                    <div>
                         <p>
                         My name is James O'Keefe and I am a practicing web developer currently enrolled in the UConn Coding Bootcamp. My background is in customer service but I am looking to start my career in web development. Outisde of work I enjoy golfing, hiking, and spending time with my family and friends. My wife and I have recently welcomed our first child in to the world!
                         </p>
