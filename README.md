@@ -14,8 +14,8 @@ The purpose of this assignment was to create a React portfolio to be able to sha
 ![portfolio](./images/portfolioss.PNG)
 
 ## Links:
-[GitHub]https://github.com/j-okeefe
+[GitHub](https://github.com/j-okeefe)
 
-[Portfolio]https://j-okeefe.github.io/react-portfolio/
+[Portfolio](https://j-okeefe.github.io/react-portfolio/)
 
 [Email](mailto:jbo88@att.net)
